@@ -110,15 +110,3 @@ Edit the brand text, page copy, footer and metadata in `index.html`.
 - Product photography and web fonts are loaded from external services (Unsplash and Google Fonts). An internet connection is needed for those assets.
 - Bootstrap and Bootstrap Icons are loaded through jsDelivr CDN.
 
-## Suggested next improvements
-
-1. Build a product details page.
-2. Add a backend API and database for products, users and orders.
-3. Add authentication and user profiles.
-4. Integrate a secure payment provider in a backend-supported checkout flow.
-5. Add server-side newsletter subscriptions and order confirmation emails.
-6. Add product image uploads, inventory management and admin dashboard.
-
-## License
-
-This starter project is provided for learning and personal portfolio use. Replace demo content, product images and branding as needed before publishing a commercial website.
